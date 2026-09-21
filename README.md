@@ -18,7 +18,8 @@ Avian Influenza, dairy, agent-based modeling, transmission dynamics
     │   ├── Inputs         <- Data from third-party sources that is shareable.
     │   ├── interim        <- Intermediate data that has been transformed.
     │   ├── Outputs        <- Outputs of the modeling.
-    ├── notebooks          <- Jupyter notebooks. The naming convention is a date (for ordering),
+    ├── notebooks          <- 1 example Jupyter notebook. All main scripts in folder "working notebooks".
+    |                           The naming convention is a date (for ordering),
     │                         the creator's initials, and a short `_` delimited description, e.g.
     │                         `20260101_psk_data-exploration.ipynb`.
     ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
