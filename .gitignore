@@ -84,4 +84,3 @@ target/
 # Model checkpoints
 wndp-exp/
 *.zip
-*.pkl
